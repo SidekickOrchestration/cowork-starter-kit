@@ -1,0 +1,58 @@
+---
+title: Group Benefits FAQ (Example)
+aliases: [GB FAQ, group benefits questions, common client questions]
+status: active
+created: 2026-05-05
+---
+
+# Group Benefits Common Questions
+
+This file is a template. Copy it to `Group_Benefits_FAQ.md`, edit the answers to match how YOU actually talk to clients, and delete this `.example` version. The point is not to use generic answers; it is to have your answers ready so Claude can draft client emails and proposals in your voice instead of in textbook insurance-speak.
+
+---
+
+## "Why are my rates going up at renewal?"
+
+Three things drive renewal rate increases: your group's claims experience over the past 12 months (the biggest factor), industry-wide medical inflation (3 to 5 percent baseline most years), and the carrier's overall block performance. If your group is small (under 50 employees), one or two large claims can swing your renewal by 15 to 25 percent in either direction. The fix is not always to switch carriers; sometimes it is plan design adjustments to reduce volatility.
+
+## "Can we lower our premium?"
+
+Yes, but every lever has a trade. Raising the deductible lowers premium but increases out-of-pocket. Reducing the dental annual maximum or paramedical caps lowers premium but limits coverage. Adding a member contribution (employee pays a percentage) can save 15 to 30 percent on the company premium but shifts cost to the team. The conversation I want to have is which trade fits your culture, not just "what is the cheapest plan."
+
+## "Is dental worth keeping if claims are low?"
+
+Usually yes, even in low-claim years. Dental is the line members notice the most when it disappears. The cost-per-employee on a basic dental plan is typically $40 to $80 per month; the retention effect of "we have dental" is hard to put a number on but real. If you want to lower the cost, look at moving from 100/80/50 to 80/50/50 or capping the annual maximum, before you cut the line entirely.
+
+## "Should we add critical illness?"
+
+For owner-operators and key people, often yes. For broad employee coverage, less obvious. Critical illness pays a lump sum if the insured is diagnosed with a covered condition (cancer, heart attack, stroke, etc.). For business owners with mortgages and dependent income, the lump sum can be the difference between recovery and bankruptcy. For an entry-level employee, the premium often does not match the perceived benefit. I usually suggest CI as an optional buy-up rather than a core line.
+
+## "What happens to coverage when an employee leaves?"
+
+Standard plans terminate coverage on the last day of the employment month. Some carriers offer a 31-day conversion privilege (the employee can convert to an individual plan without medical underwriting) but the rates are typically 2 to 3 times higher than the group rate. If the departing employee is a partner or key person, mention conversion proactively; for a regular employee, it is on them to ask.
+
+## "Why is the EHC paramedical cap so low?"
+
+Most plans cap each paramedical category (massage, chiropractic, physiotherapy, etc.) at $300 to $500 per person per year. The cap exists because paramedical is the most-used line and the most-abused line. Raising a single cap from $500 to $750 typically adds 3 to 6 percent to the EHC premium. If your team uses one category heavily (RMT is the common one), it may be worth raising just that cap rather than all of them.
+
+## "Can we make the plan flex per employee?"
+
+Yes, with flex plans (sometimes called "modular benefits"). Each employee gets a credit allowance and chooses how to spend it across health, dental, life, and so on. Flex plans cost more to administer but increase perceived value because employees feel ownership. For groups under 25 employees, flex is usually overkill; for groups over 50, it is worth a serious look.
+
+## "What happens at renewal if I am unhappy with the carrier?"
+
+You can shop. We pull quotes from two or three carriers in the market 60 to 90 days before renewal, present them side-by-side, and you decide. Switching mid-year is also possible but rare; renewal date is the natural reset. If you are switching, be aware: medical underwriting may be required for a small portion of the team if your prior carrier had pre-existing-condition leniency that the new one does not.
+
+## "Do members have to enroll every year?"
+
+No. Once they are enrolled, they stay enrolled until they leave the company or trigger a life event (marriage, divorce, baby, dependent change). Annual re-enrollment only applies to flex plans where the credit allocation resets each year.
+
+## "What is a HSA, HCSA, or PHSP, and do we need one?"
+
+These are tax-advantaged accounts that let the company reimburse employees for medical expenses outside the standard plan. PHSP is the Canadian-tax-code version. They are most useful for: small groups where a full insured plan is too expensive, owner-operators who want to deduct family medical expenses through the corp, or as a top-up for employees who blow through paramedical caps. Not a replacement for a real plan in most cases.
+
+---
+
+## How Claude should use this file
+
+When I mention a client question that maps to one of these FAQs, draw from the answer here in the voice it is written. When drafting a follow-up email or a proposal, reference the relevant FAQ language so the client sees consistency. If a client asks something not covered here, draft an answer in this same voice and ask me whether to add it to the file.

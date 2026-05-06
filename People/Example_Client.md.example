@@ -1,0 +1,50 @@
+---
+title: Marcy Tran (HealthFirst)
+aliases: [Marcy, Marcy Tran, HealthFirst, HealthFirst Group Benefits]
+status: active
+created: 2026-05-05
+---
+
+# Marcy Tran
+
+This file is a template. Copy it to `FirstName_LastName.md` (e.g. `Marcy_Tran.md`), replace the content with details about a real person, and delete this `.example` version. Claude reads `People/` files when you mention a name that matches; a populated People file is how Claude remembers context across sessions instead of asking you to re-explain every call.
+
+The example below is for an insurance advisor's group benefits client. Replace with your own.
+
+---
+
+## Who
+
+Owner-operator of HealthFirst Family Medicine, a 4-physician clinic plus 14 admin and clinical staff in Calgary AB. Took over the clinic from her father in 2024. Detail-oriented, direct, prefers email to phone for anything routine. Phone for anything sensitive.
+
+## Relationship
+
+Group benefits client since 2025. Came in through a referral from her accountant, Ravi Sharma at SharmaCPA. Renews August 15. Currently on Sun Life dental and EHC, considering a switch to Canada Life for lower per-employee premium.
+
+## What we last talked about
+
+2026-05-04 call. She wants the carrier comparison by Friday. She is sending current premium spreadsheet by Wednesday. She mentioned the EHC paramedical cap should be raised from $500 to $750 per category; she did not specify which categories.
+
+## Open commitments
+
+- Me to her: Sun Life vs Canada Life comparison spreadsheet by Friday 2026-05-09
+- Her to me: current premium spreadsheet by Wednesday 2026-05-07
+- Me to her: confirmation on which paramedical categories to raise (open question from May 4 call)
+
+## Things she has said that matter
+
+"My team notices when claims take more than a week. That is the only thing that has ever made me consider switching carriers."
+
+"Ravi told me you actually return phone calls. That is a low bar but apparently a hard one."
+
+"I do not want to think about this between renewals. Tell me when something needs my attention; otherwise let me run my clinic."
+
+## Products she has, has considered, or has asked about
+
+Has: Sun Life group dental + EHC, owner pays 80 percent. Standard $500 paramedical caps per category.
+Considered: Canada Life same coverage tier (current comparison in flight). Manulife was ruled out in 2025 for slow claims processing.
+Asked about: critical illness rider for the partners (her, the other 3 physicians). Not in flight yet.
+
+## How Claude should use this file
+
+When I mention Marcy, HealthFirst, or the August 15 renewal, draw from this file. Update this file at the end of any conversation with new context. Surface open commitments when I open a session that touches her name.

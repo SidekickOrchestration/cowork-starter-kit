@@ -1,0 +1,78 @@
+---
+title: Carrier Reference (Example)
+aliases: [carrier reference, carrier contacts, underwriter reference, carrier sheet]
+status: active
+created: 2026-05-05
+---
+
+# Carrier Reference
+
+This file is a template. Copy it to `Carrier_Reference.md` (or split into one file per carrier if you prefer), populate it with your real carriers and contacts, and delete this `.example` version.
+
+The pattern below is for an independent group benefits advisor. Replace with your own carrier panel, products, and contacts.
+
+---
+
+## Sun Life
+
+**Product lines I sell:** Group dental, EHC, basic life, dependent life, AD&D, optional life.
+
+**Underwriter contact (small group, under 25 lives):** Marcy Tran, marcy.tran@sunlife.com, last spoke 2026-04-22. Direct phone available on request.
+
+**Service rep:** Daniel Pham, daniel.pham@sunlife.com. Use for claims escalations, plan amendments, member changes.
+
+**Claims experience:** Strong. Most paramedical claims process in 5 to 7 business days. Online portal is reliable. Members do not complain.
+
+**Renewal pattern:** First quotes go out roughly 60 days before renewal. Negotiation room exists if loss ratio is under 70 percent. They will hold a renewal for two weeks past the date if you ask.
+
+**What they are good at:** Dental, EHC, claims service. Member experience.
+
+**What to watch out for:** AD&D base coverage is thin; the rider matters. Optional life requires medical underwriting at thresholds I sometimes forget; check before quoting.
+
+**Last touched:** 2026-04-22.
+
+---
+
+## Canada Life
+
+**Product lines I sell:** Group benefits (full suite), critical illness, disability.
+
+**Underwriter contact (small group):** [populate with your actual contact]
+
+**Service rep:** [populate]
+
+**Claims experience:** Solid. Slower than Sun Life on paramedical, faster on disability.
+
+**Renewal pattern:** Renewal letters arrive on time, rate increases tend to be aggressive in years 2 to 3 if the group has had any claims experience.
+
+**What they are good at:** Critical illness, disability, larger groups.
+
+**What to watch out for:** Their dental annual maximums are middle-of-pack; clients comparing on dental alone may be unhappy.
+
+**Last touched:** [date]
+
+---
+
+## Manulife
+
+**Product lines I sell:** [populate]
+
+**Underwriter contact:** [populate]
+
+**Service rep:** [populate]
+
+**Claims experience:** [populate from your direct experience]
+
+**Renewal pattern:** [populate]
+
+**What they are good at:** [populate]
+
+**What to watch out for:** [populate]
+
+**Last touched:** [date]
+
+---
+
+## How Claude should use this file
+
+When I mention a carrier name, look here for the contact, the renewal pattern, and the gotchas. When I am building a carrier comparison, draw from the "what they are good at" and "what to watch out for" sections. When I ask "who do I email at [carrier] for [product line]," surface the named contact and the last-known-good date. If I have not updated this file in over six months, surface that as a flag because the contacts are likely stale.

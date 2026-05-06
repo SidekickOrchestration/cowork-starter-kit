@@ -1,0 +1,47 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+Icon?
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Build artifacts
+dist/
+build/
+.next/
+.cache/
+out/
+
+# Common one-offs
+*.log
+*.tmp
+*.bak
+*.lock.bak
+
+# TO DELETE folder: keep the README, ignore everything else
+TO DELETE/*
+!TO DELETE/README.md

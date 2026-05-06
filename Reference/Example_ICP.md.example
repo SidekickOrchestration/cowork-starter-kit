@@ -1,0 +1,46 @@
+---
+title: Example ICP
+aliases: [example ICP, ideal client profile sample, ICP template]
+status: active
+created: 2026-05-05
+---
+
+# Example ICP
+
+This file is a template. Copy it to `My_ICP.md` (or whatever you want to call it), edit the content, and delete this `.example` version. Claude reads files in `Reference/` on demand when the topic comes up; a clear ICP file means Claude knows who you sell to without you re-explaining every session.
+
+The example below is for an independent insurance advisor. Replace with your own.
+
+---
+
+## Who I sell to
+
+Small business owners in Alberta and BC, 5 to 25 employees, in trades, professional services, or specialty retail. Owner is also the operator. They have or are setting up a group benefits plan, often as a retention tool. They are not large enough to have an HR person but big enough that the owner is no longer doing payroll themselves.
+
+## What they want
+
+A plan that covers their core team well, does not break the budget at renewal, and does not require them to think about it more than twice a year. They want a real human advocate when something goes wrong with a claim. They are tired of carrier portals that lose data and renewal letters that read like a math test.
+
+## What they do not want
+
+A plan they have to actively manage. A "broker of record" who disappears between renewals. Cheap-and-bad coverage that lapses on the first complicated claim. Anything that takes more than a 30-minute call to explain.
+
+## How they buy
+
+Through referrals from their accountant, their lawyer, or another business owner they trust. Cold calls do not work. LinkedIn ads do not work. Conferences sometimes work but only for the meet-and-greet, not the close.
+
+## How they pay
+
+Annual or semi-annual. The plan premium is paid by the business; the owner often co-funds employee paramedical or dental. They are price-aware but not price-led; if the comparison is clean and the service is real, they will pay 5 to 8 percent more than the lowest quote.
+
+## How long they stay
+
+Years. Group benefits is a sticky relationship. The renewal cycle is the natural reset point and where most carrier shopping happens. Quality of advice during the renewal season is the difference between keeping a client and losing one.
+
+## What disqualifies a prospect
+
+Captive structures (the broker of record is locked in by parent company). Companies under 5 employees (margin too thin, plans too expensive per head). Companies over 50 employees (different sales motion, different products, not my lane). Companies in regulated industries with their own benefits administrator.
+
+## How Claude should use this file
+
+When I mention "an ICP-fit prospect" or "a typical client," draw from this file. When I describe a new prospect, compare them to this profile and flag mismatches. When I ask for outreach copy, the language should resonate with the person described here, not a generic SMB owner.

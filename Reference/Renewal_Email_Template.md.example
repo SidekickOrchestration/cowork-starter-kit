@@ -1,0 +1,60 @@
+---
+title: Renewal Email Template (Example)
+aliases: [renewal email, renewal letter template, renewal copy]
+status: active
+created: 2026-05-05
+---
+
+# Renewal Email Template
+
+This file is a template. Copy it to `Renewal_Email_Template.md`, replace the placeholders with your own structure, and delete this `.example` version. Edit the tone to match how YOU actually email clients. Generic insurance-speak makes everyone sound the same; your voice is what keeps the relationship.
+
+The pattern below is for an independent group benefits advisor sending a 60-day renewal kickoff email to a small business client. Adapt for life, individual health, mortgage renewal, etc.
+
+---
+
+## 60-day renewal kickoff (small group)
+
+**Subject:** [Client first name], your [Month] renewal kickoff
+
+**Body:**
+
+Hi [Client first name],
+
+[Client company]'s renewal date is [renewal date], which means we are roughly 60 days out. Time to start the cycle.
+
+Here is what I am going to do over the next four weeks:
+
+1. Pull current claims data from [current carrier] and check whether your loss ratio justifies a hold on rates or whether we should expect an increase.
+2. Quote two or three alternative carriers so you have a real comparison, not just a renewal letter to react to.
+3. Send you a side-by-side comparison with my recommendation 30 days before renewal.
+
+Here is what I need from you:
+
+[Specific 1: e.g. confirm whether your headcount has changed since last year]
+[Specific 2: e.g. flag any plan design changes you want to discuss, like raising paramedical caps or adding a CI rider]
+[Specific 3: e.g. tell me if any team members had major medical events I should know about for the underwriting conversation]
+
+If anything has changed in the business this year that I should factor in (new hires, leadership changes, location, etc.), let me know in your reply.
+
+I will follow up if I do not hear back by [date 7 days from sending]. Otherwise, you will see the comparison from me on [date 30 days before renewal].
+
+[Sign off in your usual voice]
+
+[Your name]
+
+---
+
+## Variants to keep with this file
+
+- **30-day renewal comparison** (the comparison email that follows the kickoff)
+- **Decision day** (the email when the client needs to choose)
+- **Post-decision confirmation** (the email after they have chosen, summarizing what was decided and what happens next)
+
+The 60-day kickoff above is the load-bearing one. The other three are mostly variations on it; you build them as you go and add them here.
+
+---
+
+## How Claude should use this file
+
+When I ask for a renewal email draft for a specific client, use this template as the structural backbone, populate the placeholders from the client's People file, and adjust the tone to match the client. Do not send a generic version; always pull specifics from the People file (the renewal date, the carrier, the headcount, anything they have said matters). If the People file is missing context, ask me before drafting; do not invent.
